@@ -1,2 +1,6 @@
 # HelloWorldGo
-A little hello world file my first exploration into Go. 
+My first exploration into Go. A collection of little Go projects.
+
+#References
+Following the Go Language Programming Practical Basics Tutorial by SentDex
+
