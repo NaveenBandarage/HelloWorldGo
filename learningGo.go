@@ -4,6 +4,6 @@ import (
  "fmt"
 )
 
-func main(){
-  fmt.Println("Hello World!")
+func printingGo(){
+  fmt.Println("This is printing from the Learning go file!")
 }

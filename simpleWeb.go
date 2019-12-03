@@ -6,6 +6,7 @@ import ("fmt"
 
 func main(){
 	fmt.Println("Server is now running on Port: 8000")
+	printingGo()
 
 	http.HandleFunc("/", webPage) //creates
 	http.ListenAndServe(":8000", nil) //server local host port 800: 
