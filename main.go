@@ -1,7 +1,8 @@
-package main
-import "fmt"
+// package main
+// import "fmt"
 
-func main(){
-fmt.Println("Standard message that says Hello, World!")
+// //realised you can't have more than one main file.
+// // func main(){
+// // fmt.Println("Standard message that says Hello, World!")
 
-}
+// // }
